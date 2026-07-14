@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 600" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="500" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e8f4fd"/>
+      <stop offset="1" stop-color="#cce5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="600" fill="url(#bg)"/>
+  <circle cx="250" cy="200" r="100" fill="#0066cc" opacity="0.15"/>
+  <circle cx="250" cy="180" r="70" fill="#0066cc" opacity="0.25"/>
+  <ellipse cx="250" cy="420" rx="120" ry="140" fill="#0066cc" opacity="0.2"/>
+  <circle cx="250" cy="160" r="55" fill="#b3d9ff"/>
+  <rect x="175" y="230" width="150" height="200" rx="20" fill="#0066cc" opacity="0.3"/>
+  <text x="250" y="540" text-anchor="middle" font-family="Poppins,sans-serif" font-size="16" fill="#0066cc" opacity="0.6">Dr. Sarah Mitchell</text>
+</svg>

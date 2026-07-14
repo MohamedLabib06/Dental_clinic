@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="400" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#cbd5e1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#g3)"/>
+  <rect x="50" y="40" width="300" height="220" rx="12" fill="#1e293b" opacity="0.1"/>
+  <rect x="80" y="70" width="240" height="160" rx="8" fill="#0066cc" opacity="0.2"/>
+  <circle cx="200" cy="150" r="50" fill="#0066cc" opacity="0.15"/>
+  <rect x="120" y="120" width="160" height="60" rx="6" fill="#0066cc" opacity="0.3"/>
+  <text x="200" y="285" text-anchor="middle" font-family="Poppins,sans-serif" font-size="13" fill="#0066cc" opacity="0.5">Imaging Lab</text>
+</svg>

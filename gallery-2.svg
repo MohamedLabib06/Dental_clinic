@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="400" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eff6ff"/>
+      <stop offset="1" stop-color="#93c5fd"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#g2)"/>
+  <rect x="40" y="60" width="320" height="200" rx="10" fill="white" opacity="0.6"/>
+  <rect x="80" y="300" width="80" height="140" rx="8" fill="#0066cc" opacity="0.2"/>
+  <rect x="180" y="280" width="180" height="160" rx="10" fill="#0066cc" opacity="0.15"/>
+  <circle cx="200" cy="160" r="30" fill="#0066cc" opacity="0.25"/>
+  <text x="200" y="470" text-anchor="middle" font-family="Poppins,sans-serif" font-size="14" fill="#0066cc" opacity="0.5">Treatment Room</text>
+</svg>
